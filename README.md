@@ -1,4 +1,4 @@
-# Mapping in R using Natural Earth Data
+# Mapping in R using Natural Earth Shapefiles
 
 Mapping using open source shapefiles from natural earth in ggplot in R #rstats.
 
